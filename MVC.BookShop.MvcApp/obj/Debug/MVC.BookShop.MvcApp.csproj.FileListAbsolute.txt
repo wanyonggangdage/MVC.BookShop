@@ -1,0 +1,7 @@
+E:\Projects\MVC.BookShop\MVC.BookShop.MvcApp\bin\MVC.BookShop.MvcApp.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.MvcApp\bin\MVC.BookShop.MvcApp.pdb
+E:\Projects\MVC.BookShop\MVC.BookShop.MvcApp\bin\EntityFramework.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.MvcApp\bin\EntityFramework.xml
+E:\Projects\MVC.BookShop\MVC.BookShop.MvcApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MVC.BookShop\MVC.BookShop.MvcApp\obj\Debug\MVC.BookShop.MvcApp.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.MvcApp\obj\Debug\MVC.BookShop.MvcApp.pdb

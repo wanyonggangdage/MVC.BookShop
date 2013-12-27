@@ -1,0 +1,7 @@
+E:\Projects\MVC.BookShop\MVC.BookShop.IDAl\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MVC.BookShop\MVC.BookShop.IDAl\bin\Debug\MVC.BookShop.IDAl.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.IDAl\bin\Debug\MVC.BookShop.IDAl.pdb
+E:\Projects\MVC.BookShop\MVC.BookShop.IDAl\bin\Debug\MVC.BookShop.Model.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.IDAl\bin\Debug\MVC.BookShop.Model.pdb
+E:\Projects\MVC.BookShop\MVC.BookShop.IDAl\obj\Debug\MVC.BookShop.IDAl.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.IDAl\obj\Debug\MVC.BookShop.IDAl.pdb

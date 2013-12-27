@@ -1,0 +1,5 @@
+E:\Projects\MVC.BookShop\MVC.BookShop.BLL\bin\Debug\MVC.BookShop.BLL.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.BLL\bin\Debug\MVC.BookShop.BLL.pdb
+E:\Projects\MVC.BookShop\MVC.BookShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MVC.BookShop\MVC.BookShop.BLL\obj\Debug\MVC.BookShop.BLL.dll
+E:\Projects\MVC.BookShop\MVC.BookShop.BLL\obj\Debug\MVC.BookShop.BLL.pdb

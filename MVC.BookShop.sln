@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.BookShop.Model", "MVC.BookShop.Model\MVC.BookShop.Model.csproj", "{48CE024B-F730-4173-A3BE-FA507FBDD452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.BookShop.DAL", "MVC.BookShop.DAL\MVC.BookShop.DAL.csproj", "{F4B2E3D1-14B2-40C6-83B2-8D3AA442C609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.BookShop.BLL", "MVC.BookShop.BLL\MVC.BookShop.BLL.csproj", "{F41EFA5B-C8A3-4222-AC31-2798E5F6BCEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.BookShop.MvcApp", "MVC.BookShop.MvcApp\MVC.BookShop.MvcApp.csproj", "{FBB5E9FA-1E1B-4660-B75C-A1AA0AA226E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterFace", "InterFace", "{F6243D58-DEBF-4B49-87F2-BE00AB710746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.BookShop.IDAl", "MVC.BookShop.IDAl\MVC.BookShop.IDAl.csproj", "{6831F5F1-3764-42CF-8692-AF6162000ADE}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MVC.BookShop.BLL\\MVC.BookShop.BLL.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = MVC.BookShop.BLL\\
+		SccProjectUniqueName2 = MVC.BookShop.DAL\\MVC.BookShop.DAL.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = MVC.BookShop.DAL\\
+		SccProjectUniqueName3 = MVC.BookShop.IDAl\\MVC.BookShop.IDAl.csproj
+		SccProjectTopLevelParentUniqueName3 = MVC.BookShop.sln
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = MVC.BookShop.IDAl\\
+		SccProjectUniqueName4 = MVC.BookShop.Model\\MVC.BookShop.Model.csproj
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = MVC.BookShop.Model\\
+		SccProjectUniqueName5 = MVC.BookShop.MvcApp\\MVC.BookShop.MvcApp.csproj
+		SccLocalPath5 = .
+		SccProjectFilePathRelativizedFromConnection5 = MVC.BookShop.MvcApp\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CE024B-F730-4173-A3BE-FA507FBDD452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CE024B-F730-4173-A3BE-FA507FBDD452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CE024B-F730-4173-A3BE-FA507FBDD452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CE024B-F730-4173-A3BE-FA507FBDD452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B2E3D1-14B2-40C6-83B2-8D3AA442C609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B2E3D1-14B2-40C6-83B2-8D3AA442C609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B2E3D1-14B2-40C6-83B2-8D3AA442C609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B2E3D1-14B2-40C6-83B2-8D3AA442C609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41EFA5B-C8A3-4222-AC31-2798E5F6BCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41EFA5B-C8A3-4222-AC31-2798E5F6BCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41EFA5B-C8A3-4222-AC31-2798E5F6BCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41EFA5B-C8A3-4222-AC31-2798E5F6BCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB5E9FA-1E1B-4660-B75C-A1AA0AA226E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB5E9FA-1E1B-4660-B75C-A1AA0AA226E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB5E9FA-1E1B-4660-B75C-A1AA0AA226E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB5E9FA-1E1B-4660-B75C-A1AA0AA226E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6831F5F1-3764-42CF-8692-AF6162000ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6831F5F1-3764-42CF-8692-AF6162000ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6831F5F1-3764-42CF-8692-AF6162000ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6831F5F1-3764-42CF-8692-AF6162000ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6831F5F1-3764-42CF-8692-AF6162000ADE} = {F6243D58-DEBF-4B49-87F2-BE00AB710746}
+	EndGlobalSection
+EndGlobal
